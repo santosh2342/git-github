@@ -1,2 +1,2 @@
 # git-github
-Demo purpose
+Demo purpose only
